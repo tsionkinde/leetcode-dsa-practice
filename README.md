@@ -1055,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/tsionkinde/topractice-leethub/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/tsionkinde/topractice-leethub/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/tsionkinde/topractice-leethub/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/tsionkinde/topractice-leethub/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0897-increasing-order-search-tree) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tsionkinde/topractice-leethub/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/tsionkinde/topractice-leethub/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1121,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsionkinde/topractice-leethub/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tsionkinde/topractice-leethub/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/tsionkinde/topractice-leethub/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsionkinde/topractice-leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tsionkinde/topractice-leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
