@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tsionkinde/topractice-leethub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/tsionkinde/topractice-leethub/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tsionkinde/topractice-leethub/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tsionkinde/topractice-leethub/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/tsionkinde/topractice-leethub/tree/master/1688-count-of-matches-in-tournament) |
