@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tsionkinde/topractice-leethub/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/tsionkinde/topractice-leethub/tree/master/2574-left-and-right-sum-differences) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/tsionkinde/topractice-leethub/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/tsionkinde/topractice-leethub/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2785-sort-vowels-in-a-string) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tsionkinde/topractice-leethub/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/tsionkinde/topractice-leethub/tree/master/1791-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tsionkinde/topractice-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/tsionkinde/topractice-leethub/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/tsionkinde/topractice-leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
