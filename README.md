@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/tsionkinde/topractice-leethub/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/tsionkinde/topractice-leethub/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tsionkinde/topractice-leethub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tsionkinde/topractice-leethub/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/tsionkinde/topractice-leethub/tree/master/0722-remove-comments) |
