@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/tsionkinde/topractice-leethub/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/tsionkinde/topractice-leethub/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/tsionkinde/topractice-leethub/tree/master/0836-rectangle-overlap) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/tsionkinde/topractice-leethub/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tsionkinde/topractice-leethub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tsionkinde/topractice-leethub/tree/master/0609-find-duplicate-file-in-system) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tsionkinde/topractice-leethub/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/tsionkinde/topractice-leethub/tree/master/0661-image-smoother) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/tsionkinde/topractice-leethub/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/tsionkinde/topractice-leethub/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/tsionkinde/topractice-leethub/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tsionkinde/topractice-leethub/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
