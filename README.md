@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tsionkinde/topractice-leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsionkinde/topractice-leethub/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/tsionkinde/topractice-leethub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2007-find-original-array-from-doubled-array) |
 | [2032-two-out-of-three](https://github.com/tsionkinde/topractice-leethub/tree/master/2032-two-out-of-three) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/tsionkinde/topractice-leethub/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tsionkinde/topractice-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tsionkinde/topractice-leethub/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1991-find-the-middle-index-in-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1991-find-the-middle-index-in-array) |
 | [2381-shifting-letters-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/tsionkinde/topractice-leethub/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/tsionkinde/topractice-leethub/tree/master/2574-left-and-right-sum-differences) |
