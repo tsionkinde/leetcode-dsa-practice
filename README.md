@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/tsionkinde/topractice-leethub/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/tsionkinde/topractice-leethub/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/tsionkinde/topractice-leethub/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tsionkinde/topractice-leethub/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/tsionkinde/topractice-leethub/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/tsionkinde/topractice-leethub/tree/master/0881-boats-to-save-people) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/tsionkinde/topractice-leethub/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tsionkinde/topractice-leethub/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tsionkinde/topractice-leethub/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/tsionkinde/topractice-leethub/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tsionkinde/topractice-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1239,4 +1241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tsionkinde/topractice-leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
