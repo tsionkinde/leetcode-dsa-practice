@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tsionkinde/topractice-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tsionkinde/topractice-leethub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tsionkinde/topractice-leethub/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/tsionkinde/topractice-leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/tsionkinde/topractice-leethub/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tsionkinde/topractice-leethub/tree/master/2215-find-the-difference-of-two-arrays) |
