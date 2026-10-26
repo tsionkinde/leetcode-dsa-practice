@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/tsionkinde/topractice-leethub/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/tsionkinde/topractice-leethub/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tsionkinde/topractice-leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1651-shuffle-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1651-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tsionkinde/topractice-leethub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/tsionkinde/topractice-leethub/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/tsionkinde/topractice-leethub/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1640-check-array-formation-through-concatenation](https://github.com/tsionkinde/topractice-leethub/tree/master/1640-check-array-formation-through-concatenation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsionkinde/topractice-leethub/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1684-count-the-number-of-consistent-strings) |
