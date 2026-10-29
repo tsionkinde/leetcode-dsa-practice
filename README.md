@@ -921,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsionkinde/topractice-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/tsionkinde/topractice-leethub/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/tsionkinde/topractice-leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tsionkinde/topractice-leethub/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/tsionkinde/topractice-leethub/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0496-next-greater-element-i) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/tsionkinde/topractice-leethub/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tsionkinde/topractice-leethub/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/tsionkinde/topractice-leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tsionkinde/topractice-leethub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tsionkinde/topractice-leethub/tree/master/0380-insert-delete-getrandom-o1) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tsionkinde/topractice-leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/tsionkinde/topractice-leethub/tree/master/0969-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
