@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tsionkinde/topractice-leethub/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/tsionkinde/topractice-leethub/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/tsionkinde/topractice-leethub/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tsionkinde/topractice-leethub/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/tsionkinde/topractice-leethub/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tsionkinde/topractice-leethub/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/tsionkinde/topractice-leethub/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/tsionkinde/topractice-leethub/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/tsionkinde/topractice-leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tsionkinde/topractice-leethub/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
