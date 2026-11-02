@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsionkinde/topractice-leethub/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/tsionkinde/topractice-leethub/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/tsionkinde/topractice-leethub/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tsionkinde/topractice-leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tsionkinde/topractice-leethub/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/tsionkinde/topractice-leethub/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/tsionkinde/topractice-leethub/tree/master/1925-count-square-sum-triples) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/tsionkinde/topractice-leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tsionkinde/topractice-leethub/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/tsionkinde/topractice-leethub/tree/master/2427-number-of-common-factors) |
