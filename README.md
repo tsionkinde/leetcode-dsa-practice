@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/tsionkinde/topractice-leethub/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tsionkinde/topractice-leethub/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/tsionkinde/topractice-leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/tsionkinde/topractice-leethub/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/tsionkinde/topractice-leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tsionkinde/topractice-leethub/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tsionkinde/topractice-leethub/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2671-frequency-tracker](https://github.com/tsionkinde/topractice-leethub/tree/master/2671-frequency-tracker) |
 | [2716-minimize-string-length](https://github.com/tsionkinde/topractice-leethub/tree/master/2716-minimize-string-length) |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/tsionkinde/topractice-leethub/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tsionkinde/topractice-leethub/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/tsionkinde/topractice-leethub/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/2506-count-pairs-of-similar-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/tsionkinde/topractice-leethub/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/tsionkinde/topractice-leethub/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tsionkinde/topractice-leethub/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tsionkinde/topractice-leethub/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
