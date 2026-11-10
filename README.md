@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/tsionkinde/topractice-leethub/tree/master/3174-clear-digits) |
+| [3330-find-the-original-typed-string-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
