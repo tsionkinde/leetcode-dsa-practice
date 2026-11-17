@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/tsionkinde/topractice-leethub/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tsionkinde/topractice-leethub/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/tsionkinde/topractice-leethub/tree/master/3884-first-matching-character-from-both-ends) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/tsionkinde/topractice-leethub/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/tsionkinde/topractice-leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3917-count-indices-with-opposite-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/tsionkinde/topractice-leethub/tree/master/3925-concatenate-array-with-reverse) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/tsionkinde/topractice-leethub/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/tsionkinde/topractice-leethub/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/3731-find-missing-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/tsionkinde/topractice-leethub/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Simulation
 |  |
 | ------- |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/tsionkinde/topractice-leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/tsionkinde/topractice-leethub/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tsionkinde/topractice-leethub/tree/master/3689-maximum-total-subarray-value-i) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/tsionkinde/topractice-leethub/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting
 |  |
 | ------- |
