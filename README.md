@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/tsionkinde/topractice-leethub/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/tsionkinde/topractice-leethub/tree/master/0836-rectangle-overlap) |
+| [0908-smallest-range-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/tsionkinde/topractice-leethub/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tsionkinde/topractice-leethub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/tsionkinde/topractice-leethub/tree/master/1103-distribute-candies-to-people) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/tsionkinde/topractice-leethub/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/tsionkinde/topractice-leethub/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/tsionkinde/topractice-leethub/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/tsionkinde/topractice-leethub/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tsionkinde/topractice-leethub/tree/master/0961-n-repeated-element-in-size-2n-array) |
