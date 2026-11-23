@@ -18,7 +18,5 @@ class Solution:
                 y=y.next
             else:
                 y=headA
-        return x                    
-                    
-
+        return x         
         
